@@ -1,0 +1,54 @@
+1.
+The two values of boolean data types are True and False.  Boolean expressions use relational and logical operators.
+The result of a Boolean expression is either true or false.
+2.
+Three types of Boolean operators are AND,OR ,NOT.
+== Truth table
+3.x	==	y	Returns
+True	==	True	True
+True	==	False	False
+False	==	True	False
+False	==	False	True
+
+AND Truth Table
+x	and	y	Returns
+True	and	True	True
+True	and	False	False
+False	and	True	False
+False	and	False	False
+
+OR Truth Table
+x	or	y	Returns
+True	or	True	True
+True	or	False	True
+False	or	True	True
+False	or	False	False
+
+NOT Truth Table
+not	x	Returns
+not	True	False
+not	False	True
+4.
+ False
+ True
+ True
+ True
+ False
+ True
+5.
+ less than ( < ),
+ less than or equal to ( <= ),
+ greater than ( > ),
+ greater than or equal to ( >= ),
+ equal to ( == ),
+ and not equal to ( != ).
+6.
+The '==' operator checks whether the two given operands are equal or not. If so, it returns true. Otherwise it returns false.
+The “=” is an assignment operator is used to assign the value on the right to the variable on the left. 
+
+ 
+ 
+ 
+ 
+
+
